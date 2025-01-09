@@ -11,6 +11,6 @@ int main() {
         sum += i;
     }
 
-    cout << "Sum = " << sum;
+   cout << "Sum = " << sum;
     return 0;
 }
